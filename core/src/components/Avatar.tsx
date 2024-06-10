@@ -63,10 +63,10 @@ import { GraphQLGraphic } from './clothingGraphic/GraphQL'
 import { MinecraftGraphic } from './clothingGraphic/Minecraft'
 import { Tongue } from './mouths/Tongue'
 import { DressShirt } from './clothing/DressShirt'
-import {CodeCosmosGraphic} from "components/clothingGraphic/CodeCosmos";
-import {MinecraftPickGraphic} from "components/clothingGraphic/MinecraftPick";
-import {FtrprfGraphic} from "components/clothingGraphic/Ftrprf";
-import {ScratchGraphic} from "components/clothingGraphic/Scratch";
+import {CodeCosmosGraphic} from "./clothingGraphic/CodeCosmos";
+import {MinecraftPickGraphic} from "./clothingGraphic/MinecraftPick";
+import {FtrprfGraphic} from "./clothingGraphic/Ftrprf";
+import {ScratchGraphic} from "./clothingGraphic/Scratch";
 
 export const eyesMap = {
   normal: NormalEyes,
