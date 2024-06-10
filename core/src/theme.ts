@@ -26,7 +26,7 @@ export const colors = {
     },
     pitchBlack: {
       base: '#260701',
-      shadow: '#fff',
+      shadow: '#333',
     },
     avatar: {
       base: '#5CCBF1',
