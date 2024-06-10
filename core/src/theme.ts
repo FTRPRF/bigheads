@@ -32,7 +32,7 @@ export const colors = {
       base: '#5CCBF1',
       shadow: '#49B5CD',
     },
-    martian: {
+    orc: {
       base: '#4AB749',
       shadow: '#3CA047',
     },
