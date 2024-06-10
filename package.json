@@ -1,5 +1,5 @@
 {
-  "name": "bigheads",
+  "name": "@ftrprf/bigheads",
   "version": "1.0.2",
   "private": true,
   "workspaces": [
