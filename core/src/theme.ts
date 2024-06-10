@@ -24,6 +24,14 @@ export const colors = {
       base: '#754437',
       shadow: '#6B3D34',
     },
+    avatar: {
+      base: '#5CCBF1',
+      shadow: '#49B5CD',
+    },
+    martian: {
+      base: '#4AB749',
+      shadow: '#3CA047',
+    },
   },
   hair: {
     blonde: {
