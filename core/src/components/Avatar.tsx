@@ -63,6 +63,10 @@ import { GraphQLGraphic } from './clothingGraphic/GraphQL'
 import { MinecraftGraphic } from './clothingGraphic/Minecraft'
 import { Tongue } from './mouths/Tongue'
 import { DressShirt } from './clothing/DressShirt'
+import {CodeCosmosGraphic} from "components/clothingGraphic/CodeCosmos";
+import {MinecraftPickGraphic} from "components/clothingGraphic/MinecraftPick";
+import {FtrprfGraphic} from "components/clothingGraphic/Ftrprf";
+import {ScratchGraphic} from "components/clothingGraphic/Scratch";
 
 export const eyesMap = {
   normal: NormalEyes,
@@ -143,6 +147,10 @@ export const graphicsMap = {
   react: ReactGraphic,
   graphQL: GraphQLGraphic,
   minecraft: MinecraftGraphic,
+  minecraftPick: MinecraftPickGraphic,
+  scratch: ScratchGraphic,
+  codeCosmos: CodeCosmosGraphic,
+  ftrprf: FtrprfGraphic,
 }
 
 export const hatMap = {
