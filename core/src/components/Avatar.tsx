@@ -60,6 +60,7 @@ import { ReactGraphic } from './clothingGraphic/React'
 import { TinyGlasses } from './accessories/TinyGlasses'
 import { VNeck } from './clothing/VNeck'
 import { GraphQLGraphic } from './clothingGraphic/GraphQL'
+import { MinecraftGraphic } from './clothingGraphic/Minecraft'
 import { Tongue } from './mouths/Tongue'
 import { DressShirt } from './clothing/DressShirt'
 
@@ -141,6 +142,7 @@ export const graphicsMap = {
   vue: VueGraphics,
   react: ReactGraphic,
   graphQL: GraphQLGraphic,
+  minecraft: MinecraftGraphic,
 }
 
 export const hatMap = {
